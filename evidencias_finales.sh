@@ -150,6 +150,7 @@ contraseñas_por_default(){
 }
 reportlog
 
+
 echo
 echo "**** COPIA EL SIGUIENTE SCRIP DESDE UN DIRECTORIO CONOCIDO DE TU LAPTOP ****"
 echo "**** scp -r root@LAPTOPIP:$output_final . ****"
